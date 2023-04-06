@@ -1,0 +1,7 @@
+[general]
+name=CAD Cidades
+description=Plugin e fearramenta para cadastramento multifinalitário.
+version=1.0
+qgisMinimumVersion=3.0
+author=Jairo de Almeida
+email=datakode.contato@gmail.com
